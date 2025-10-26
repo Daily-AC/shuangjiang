@@ -22,3 +22,7 @@
 
 [允许 LLM 将复杂的 Markdown 格式内容转换为图片发送，提升消息的可读性。](https://github.com/Daily-AC/SmartMd2Img)
 
+[当群主,管理员发布群公告或@全体时自动响应 "td" 的管理插件](https://github.com/xiaoxi68/astrbot_plugin_group_notice_manager)
+
+
+
