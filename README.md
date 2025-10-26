@@ -5,7 +5,7 @@
 
 [Flux.1文生图插件-支持OpenAI标准格式统一接入。 使用方法：/aimg <提示词>](https://github.com/18005575/astrbot_plugin_flux)
 
-[下载JM漫画并转为PDF，支持预览搜索测试和更新可用域名，新增三层下载回退机制和优化作者搜索 (部署第二天爬虫被识别，暂时用不了)](https://github.com/GEMILUXVII/astrbot_plugin_jm_cosmos)
+[下载JM漫画并转为PDF，支持预览搜索测试和更新可用域名，新增三层下载回退机制和优化作者搜索](https://github.com/GEMILUXVII/astrbot_plugin_jm_cosmos)
 
 [爬取群友的聊天记录，进而用llm分析群友画像](https://github.com/Zhalslar/astrbot_plugin_portrayal)
 
