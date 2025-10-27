@@ -11,6 +11,8 @@
 
 [使用 OpenAI Sora 模型生成视频 (每月额度有限)](https://github.com/sukafon/astrbot_plugin_video_sora)
 
+[视频搜索，让你和群友一起刷视频（目前仅支持B站、QQ平台，后续兼容更多）](https://github.com/Zhalslar/astrbot_plugin_search_video)
+
 ## 配置相关
 [anka - 表情包管理器 Astrbot表情包管理器3.0版本已发布! 提供便捷的 WebUI 管理界面(/表情管理 开启管理后台) , 所有 prompt 会根据修改的表情包文件夹目录自动维护，无需手动添加！可以控制每次发送的表情数量和频率(进入设置配置一次发送最大数量与发送概率) 更多信息与功能预览请前往仓库页面查看:https://github.com/anka-afk/astrbot_plugin_meme_manager 第一次使用请点击该卡片左下角配置按钮进行配置](https://github.com/anka-afk/astrbot_plugin_meme_manager)
 
@@ -23,6 +25,8 @@
 [允许 LLM 将复杂的 Markdown 格式内容转换为图片或文件发送，提升消息的可读性。](https://github.com/Daily-AC/SmartMd2Img)
 
 [当群主,管理员发布群公告或@全体时自动响应 "td" 的管理插件](https://github.com/xiaoxi68/astrbot_plugin_group_notice_manager)
+
+[多平台视频解析 + AI智能分析（目前支持B站和抖音）](https://github.com/miaoxutao123/astrbot_plugin_videos_analysis)
 
 
 
