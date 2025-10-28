@@ -13,6 +13,14 @@
 
 [视频搜索，让你和群友一起刷视频（目前仅支持B站、QQ平台，后续兼容更多）](https://github.com/Zhalslar/astrbot_plugin_search_video)
 
+[API聚合插件，海量免费API动态添加，热门API：看看腿、看看腹肌...](https://github.com/Zhalslar/astrbot_plugin_apis)
+
+[这是一个与现有好感度系统完全不同的插件。它不再是一个简单的数值计算工具，而是旨在为 AI 模拟一个多维度、自主且保密的内心世界。AI 会根据与用户的互动，真实地改变其内在的“好感度”、“态度”和“关系”，并通过回应风格的变化自然地流露出来。](https://github.com/Catfish872/astrbot_plugin_favourpro)
+
+[【更专业的戳一戳插件】支持触发（反戳：LLM：face：图库：禁言：meme：api：开盒），戳@某人，跟戳](https://github.com/Zhalslar/astrbot_plugin_pokepro)
+
+[开盒别人！](https://github.com/Zhalslar/astrbot_plugin_box)
+
 ## 配置相关
 [anka - 表情包管理器 Astrbot表情包管理器3.0版本已发布! 提供便捷的 WebUI 管理界面(/表情管理 开启管理后台) , 所有 prompt 会根据修改的表情包文件夹目录自动维护，无需手动添加！可以控制每次发送的表情数量和频率(进入设置配置一次发送最大数量与发送概率) 更多信息与功能预览请前往仓库页面查看:https://github.com/anka-afk/astrbot_plugin_meme_manager 第一次使用请点击该卡片左下角配置按钮进行配置](https://github.com/anka-afk/astrbot_plugin_meme_manager)
 
@@ -28,5 +36,5 @@
 
 [多平台视频解析 + AI智能分析（目前支持B站和抖音）](https://github.com/miaoxutao123/astrbot_plugin_videos_analysis)
 
-
+[表情包生成器，制作各种沙雕表情](https://github.com/Zhalslar/astrbot_plugin_memelite)
 
